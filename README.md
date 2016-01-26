@@ -1,4 +1,4 @@
-# Reader Art Online （逃
+# Reader Art Online （逃）
 
 HTML + Javascript 小说阅读器
 
